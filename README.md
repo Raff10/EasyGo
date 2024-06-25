@@ -23,7 +23,7 @@ In order to utilise this project, ensure you have the following installed:
   - Gherkin Beautifer
   - Gherkin Indent
   - Gherkin Table Align
-
+  - GitLens
 
 # Infrastructure
 The UI test uses a dummy website designed for testing
