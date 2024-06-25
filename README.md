@@ -1,6 +1,7 @@
 # Getting started
 Coding test for job application at EasyGo
 To run the UI test locally, start by cloning the repo with the following command:
+
 git clone git@github.com:Raff10/EasyGo.git
 
 Navigate to the cloned directory and with nvm installed, run nvm install. This will install the current version of node the project requires.
