@@ -1,0 +1,1 @@
+Feature: API tests for EasyGo
