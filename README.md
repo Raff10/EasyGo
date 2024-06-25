@@ -1,5 +1,6 @@
 # Getting started
 Coding test for job application at EasyGo
+The test was done using the latest version of Cypress (Version 13), Javascirpt and Cucumber BDD tool.
 To run the UI test locally, start by cloning the repo with the following command:
 
 git clone git@github.com:Raff10/EasyGo.git
@@ -12,6 +13,17 @@ In order to utilise this project, ensure you have the following installed:
 - Visual Studio Code
 - Chrome
 - Node.js
+
+  # Visual Studio Code Extensions
+  The following extensions are recommendations to instal within Visual Studio Code
+  - Cucumber (Gherkin) Full Support
+  - Cucumber Step Definition Generator
+  - ESLint
+  - Feature Syntax Highlight and Snippets (Cucumber/Gherkin)
+  - Gherkin Beautifer
+  - Gherkin Indent
+  - Gherkin Table Align
+
 
 # Infrastructure
 The UI test uses a dummy website designed for testing
