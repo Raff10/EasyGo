@@ -10,13 +10,14 @@ Automation Tool used for this test suit is Cypress 13.12.0
 In order to utilise this project, ensure you have the following installed:
 - Visual Studio Code
 - Chrome
+- Node.js
 
 # Infrastructure
 The UI test uses a dummy website designed for testing
 
 # Execute
 Execute the test in Cypress with npx cypress open then selecting the following:
-E2E Testing
-Chrome
-select Start E2E Testing in Chrome
-UI_Test.feature
+1) E2E Testing
+2) Chrome
+3) select Start E2E Testing in Chrome
+4) UI_Test.feature
