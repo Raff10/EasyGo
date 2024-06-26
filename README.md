@@ -36,4 +36,4 @@ Execute the test in Cypress with npx cypress open then selecting the following:
 4) UI_Test.feature
 
 # Api code
-The api code is located in the following file; Cypress/e2e/fearures/api/
+The api code is located in the following file; Cypress/e2e/fearures/API/getApi.spec.js
