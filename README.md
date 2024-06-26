@@ -2,6 +2,7 @@
 Coding test for job application at EasyGo
 The test was done using the latest version of Cypress (Version 13), Javascirpt and Cucumber BDD tool.
 To download the repository onto your local machine, you will need to setup a SSH key to clone the repo
+
 git clone git@github.com:Raff10/EasyGo.git
 
 Navigate to the cloned directory and with nvm installed, run nvm install. This will install the current version of node the project requires.
