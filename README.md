@@ -1,7 +1,12 @@
 # Getting started
 Coding test for job application at EasyGo
 The test was done using the latest version of Cypress (Version 13), Javascirpt and Cucumber BDD tool.
-To download the repository onto your local machine, you will need to setup a SSH key to clone the repo
+To download the repository onto your local machine, you will need to first setup a SSH key with the following steps:
+In a terminal emulator, navigate to the directory you want to clone the repo then run the following commands
+ssh-keygen -t ed25519 -C "<email_address>"
+pbcopy < ~/.ssh/id_ed25519.pub
+
+Then on the upper-right corner of any page on GitHub, click your profile photo, then click Settings
 
 git clone git@github.com:Raff10/EasyGo.git
 
