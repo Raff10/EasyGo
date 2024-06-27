@@ -49,3 +49,4 @@ Execute the test in Cypress with npx cypress open then selecting the following:
 
 # Api code
 The api code is located in the following file; Cypress/e2e/fearures/API/getApi.spec.js
+I didnt get the Api code written under Cucumber step definitions
