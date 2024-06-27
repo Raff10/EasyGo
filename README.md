@@ -7,14 +7,15 @@ ssh-keygen -t ed25519 -C "<email_address>"
 pbcopy < ~/.ssh/id_ed25519.pub (copies the SSH Key to paste it later)
 
 Then in Github perform the following steps:
-on the upper-right corner of any page click your profile photo 
-then click 'Settings'
-click 'SSH and GPG Keys'
-click 'New SSH Key
-Give a name for the title to identify that it is a SSH Key
-Paste the SSH Key in the Key field
+- On the upper-right corner of any page click your profile photo 
+- Click 'Settings'
+- Click 'SSH and GPG Keys'
+- Click 'New SSH Key
+- Give a name for the title to identify that it is a SSH Key
+- Paste the SSH Key in the Key field
+- Click Add SSH Key
 
-git clone git@github.com:Raff10/EasyGo.git
+Now back in your terminal emulator run the following command; git clone git@github.com:Raff10/EasyGo.git
 
 Navigate to the cloned directory and with nvm installed, run nvm install. This will install the current version of node the project requires.
 
