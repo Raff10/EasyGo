@@ -4,9 +4,15 @@ The test was done using the latest version of Cypress (Version 13), Javascirpt a
 To download the repository onto your local machine, you will need to first setup a SSH key with the following steps:
 In a terminal emulator, navigate to the directory you want to clone the repo then run the following commands
 ssh-keygen -t ed25519 -C "<email_address>"
-pbcopy < ~/.ssh/id_ed25519.pub
+pbcopy < ~/.ssh/id_ed25519.pub (copies the SSH Key to paste it later)
 
-Then on the upper-right corner of any page on GitHub, click your profile photo, then click Settings
+Then in Github perform the following steps:
+on the upper-right corner of any page click your profile photo 
+then click 'Settings'
+click 'SSH and GPG Keys'
+click 'New SSH Key
+Give a name for the title to identify that it is a SSH Key
+Paste the SSH Key in the Key field
 
 git clone git@github.com:Raff10/EasyGo.git
 
