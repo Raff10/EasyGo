@@ -1,4 +1,4 @@
-lol# Getting started
+# Getting started
 Coding test for job application at EasyGo
 The test was done using the latest version of Cypress (Version 13), Javascirpt and Cucumber BDD tool.
 To download the repository onto your local machine, you will need to setup a SSH key to clone the repo
